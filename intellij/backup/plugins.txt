@@ -1,0 +1,8 @@
+AceJump
+CustomPostfix Templates
+Jrebel and XRebel
+Pebble - https://plugins.jetbrains.com/plugin/9407-pebble
+Rainbow Brackets
+String Manipulation
+VisualVM Launcher
+Advanced Java Folding - https://plugins.jetbrains.com/plugin/9320-advanced-java-folding

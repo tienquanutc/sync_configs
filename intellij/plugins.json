@@ -1,0 +1,495 @@
+{
+  "plugins": [
+    {
+      "pluginId": "AceJump",
+      "pluginName": "AceJump",
+      "downloadUrl": "https://github.com/acejump/AceJump",
+      "dependencyPluginIds": [
+        "com.intellij.modules.platform"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "Batch Scripts Support",
+      "pluginName": "Batch Scripts Support",
+      "dependencyPluginIds": [
+        "com.intellij.modules.platform"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "Dummy Text Generator",
+      "pluginName": "Dummy Text Generator",
+      "downloadUrl": "https://github.com/kstenschke/dummytext-plugin",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "Key Promoter X",
+      "pluginName": "Key Promoter X",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.redhat.devtools.intellij.telemetry",
+      "pluginName": "Telemetry by Red Hat",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.robohorse.robopojogenerator",
+      "pluginName": "RoboPOJOGenerator",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "commit-template-idea-plugin",
+      "pluginName": "Git Commit Template",
+      "dependencyPluginIds": [
+        "com.intellij.modules.vcs"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "ideanginx9",
+      "pluginName": "nginx Support",
+      "downloadUrl": "https://github.com/ishchenko/idea-nginx",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "io.github.qeesung.component.HighlightBracketPair",
+      "pluginName": "HighlightBracketPair",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "org.intellij.RegexpTester",
+      "pluginName": "RegexpTester",
+      "downloadUrl": "http://myregexp.com/ideaPlugin.html",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "mobi.hsz.idea.gitignore",
+      "pluginName": ".ignore",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang",
+        "com.intellij.modules.vcs",
+        "Git4Idea",
+        "hg4idea"
+      ],
+      "optionalDependencyPluginIds": [
+        "Git4Idea",
+        "hg4idea"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "String Manipulation",
+      "pluginName": "String Manipulation",
+      "downloadUrl": "https://github.com/krasa/StringManipulation",
+      "dependencyPluginIds": [
+        "com.intellij.modules.platform",
+        "com.intellij.modules.java",
+        "com.intellij.properties"
+      ],
+      "optionalDependencyPluginIds": [
+        "com.intellij.modules.java",
+        "com.intellij.properties"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "VisualVMLauncher",
+      "pluginName": "VisualVM Launcher",
+      "dependencyPluginIds": [
+        "com.intellij.modules.java"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.intellij.bigdecimal-folding",
+      "pluginName": "Advanced Java Folding",
+      "dependencyPluginIds": [
+        "com.intellij.modules.java"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "jd-intellij",
+      "pluginName": "Java Decompiler IntelliJ Plugin",
+      "dependencyPluginIds": [],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "tarn.gradle.dependencies",
+      "pluginName": "Check for Dependency Updates",
+      "dependencyPluginIds": [
+        "com.intellij.modules.java"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "idea.plugin.protoeditor",
+      "pluginName": "Protocol Buffer Editor",
+      "dependencyPluginIds": [
+        "com.intellij.modules.platform",
+        "com.intellij.modules.lang",
+        "org.jetbrains.plugins.go",
+        "com.intellij.modules.java",
+        "com.intellij.modules.python"
+      ],
+      "optionalDependencyPluginIds": [
+        "org.jetbrains.plugins.go",
+        "com.intellij.modules.java",
+        "com.intellij.modules.python"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.redhat.devtools.intellij.quarkus",
+      "pluginName": "Quarkus Tools",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang",
+        "com.intellij.modules.java",
+        "com.intellij.properties",
+        "com.redhat.devtools.intellij.telemetry",
+        "org.jetbrains.idea.maven",
+        "org.jetbrains.plugins.gradle",
+        "com.intellij.modules.json"
+      ],
+      "optionalDependencyPluginIds": [
+        "org.jetbrains.idea.maven",
+        "org.jetbrains.plugins.gradle",
+        "com.intellij.modules.json"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "Dart",
+      "pluginName": "Dart",
+      "dependencyPluginIds": [
+        "com.intellij.modules.xml",
+        "JavaScriptDebugger",
+        "org.jetbrains.plugins.yaml",
+        "com.intellij.copyright",
+        "com.intellij.modules.coverage"
+      ],
+      "optionalDependencyPluginIds": [
+        "JavaScriptDebugger",
+        "org.jetbrains.plugins.yaml",
+        "com.intellij.copyright",
+        "com.intellij.modules.coverage"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "org.jetbrains.kotlin",
+      "pluginName": "Kotlin",
+      "downloadUrl": "http://kotlinlang.org",
+      "dependencyPluginIds": [
+        "com.intellij.modules.platform",
+        "JUnit",
+        "com.intellij.gradle",
+        "org.jetbrains.plugins.gradle",
+        "org.jetbrains.plugins.gradle",
+        "org.intellij.groovy",
+        "org.jetbrains.idea.maven",
+        "TestNG-J",
+        "Coverage",
+        "com.intellij.java-i18n",
+        "org.jetbrains.java.decompiler",
+        "Git4Idea",
+        "org.jetbrains.debugger.streams",
+        "com.intellij.completion.ml.ranking",
+        "NodeJS",
+        "com.intellij.nativeDebug",
+        "JavaScriptDebugger",
+        "com.intellij.modules.java",
+        "JavaScriptDebugger",
+        "com.intellij.copyright",
+        "org.intellij.intelliLang",
+        "com.intellij.gradle"
+      ],
+      "optionalDependencyPluginIds": [
+        "JUnit",
+        "com.intellij.gradle",
+        "org.jetbrains.plugins.gradle",
+        "org.jetbrains.plugins.gradle",
+        "org.intellij.groovy",
+        "org.jetbrains.idea.maven",
+        "TestNG-J",
+        "Coverage",
+        "com.intellij.java-i18n",
+        "org.jetbrains.java.decompiler",
+        "Git4Idea",
+        "org.jetbrains.debugger.streams",
+        "com.intellij.completion.ml.ranking",
+        "NodeJS",
+        "com.intellij.nativeDebug",
+        "JavaScriptDebugger",
+        "JavaScriptDebugger",
+        "com.intellij.copyright",
+        "org.intellij.intelliLang",
+        "com.intellij.gradle"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "SequenceDiagram",
+      "pluginName": "SequenceDiagram",
+      "dependencyPluginIds": [
+        "com.intellij.modules.platform",
+        "com.intellij.modules.java",
+        "org.jetbrains.kotlin"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "de.endrullis.idea.postfixtemplates",
+      "pluginName": "Custom Postfix Templates",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang",
+        "com.intellij.modules.java",
+        "org.intellij.scala",
+        "org.jetbrains.kotlin",
+        "Dart",
+        "com.intellij.modules.python",
+        "com.jetbrains.php",
+        "org.rust.lang",
+        "org.intellij.groovy",
+        "org.jetbrains.plugins.go",
+        "com.intellij.modules.ruby"
+      ],
+      "optionalDependencyPluginIds": [
+        "com.intellij.modules.java",
+        "org.intellij.scala",
+        "org.jetbrains.kotlin",
+        "Dart",
+        "com.intellij.modules.python",
+        "com.jetbrains.php",
+        "org.rust.lang",
+        "org.intellij.groovy",
+        "org.jetbrains.plugins.go",
+        "com.intellij.modules.ruby"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "JRebelPlugin",
+      "pluginName": "JRebel and XRebel for IntelliJ",
+      "downloadUrl": "https://www.jrebel.com//",
+      "dependencyPluginIds": [
+        "com.intellij.javaee",
+        "WebSphere",
+        "Weblogic",
+        "org.jetbrains.idea.maven",
+        "org.jetbrains.plugins.gradle",
+        "com.intellij.javaee.view",
+        "com.intellij.javaee.app.servers.integration",
+        "com.intellij.modules.java"
+      ],
+      "optionalDependencyPluginIds": [
+        "com.intellij.javaee",
+        "WebSphere",
+        "Weblogic",
+        "org.jetbrains.idea.maven",
+        "org.jetbrains.plugins.gradle",
+        "com.intellij.javaee.view",
+        "com.intellij.javaee.app.servers.integration"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.github.bjansen.intellij.pebble",
+      "pluginName": "Pebble",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang",
+        "com.intellij.modules.java",
+        "com.intellij.spring"
+      ],
+      "optionalDependencyPluginIds": [
+        "com.intellij.spring"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "izhangzhihao.rainbow.brackets",
+      "pluginName": "Rainbow Brackets",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang",
+        "org.jetbrains.kotlin",
+        "JavaScript",
+        "Dart",
+        "org.intellij.groovy",
+        "com.intellij.modules.rider",
+        "intellij.haskell",
+        "com.intellij.database",
+        "com.intellij.modules.clion",
+        "com.jetbrains.sh",
+        "com.jetbrains.php",
+        "org.jetbrains.plugins.go-template",
+        "com.jetbrains.plugins.jade"
+      ],
+      "optionalDependencyPluginIds": [
+        "org.jetbrains.kotlin",
+        "JavaScript",
+        "Dart",
+        "org.intellij.groovy",
+        "com.intellij.modules.rider",
+        "intellij.haskell",
+        "com.intellij.database",
+        "com.intellij.modules.clion",
+        "com.jetbrains.sh",
+        "com.jetbrains.php",
+        "org.jetbrains.plugins.go-template",
+        "com.jetbrains.plugins.jade"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.jetbrains.codeWithMe",
+      "pluginName": "Code With Me",
+      "dependencyPluginIds": [
+        "com.intellij.modules.platform",
+        "org.jetbrains.plugins.terminal",
+        "com.intellij.java",
+        "com.intellij.modules.ssh"
+      ],
+      "optionalDependencyPluginIds": [
+        "org.jetbrains.plugins.terminal",
+        "com.intellij.java",
+        "com.intellij.modules.ssh"
+      ],
+      "isBundle": true,
+      "isEnable": false
+    },
+    {
+      "pluginId": "Spock Framework Enhancements",
+      "pluginName": "Spock Framework Enhancements",
+      "dependencyPluginIds": [
+        "org.intellij.groovy"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": false
+    },
+    {
+      "pluginId": "org.editorconfig.editorconfigjetbrains",
+      "pluginName": "EditorConfig",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": true,
+      "isEnable": false
+    },
+    {
+      "pluginId": "com.weirddev.testme",
+      "pluginName": "TestMe",
+      "dependencyPluginIds": [
+        "com.intellij.modules.java",
+        "JUnit",
+        "org.intellij.groovy",
+        "org.intellij.scala"
+      ],
+      "optionalDependencyPluginIds": [
+        "org.intellij.groovy",
+        "org.intellij.scala"
+      ],
+      "isBundle": false,
+      "isEnable": false
+    },
+    {
+      "pluginId": "org.zalando.intellij.swagger",
+      "pluginName": "Swagger",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang",
+        "org.jetbrains.plugins.yaml"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": false
+    },
+    {
+      "pluginId": "com.jetbrains.sh",
+      "pluginName": "Shell Script",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang",
+        "org.jetbrains.plugins.terminal",
+        "com.intellij.copyright"
+      ],
+      "optionalDependencyPluginIds": [
+        "org.jetbrains.plugins.terminal",
+        "com.intellij.copyright"
+      ],
+      "isBundle": true,
+      "isEnable": false
+    },
+    {
+      "pluginId": "Keymap exporter",
+      "pluginName": "Keymap exporter",
+      "dependencyPluginIds": [
+        "com.intellij.modules.platform"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    }
+  ]
+}

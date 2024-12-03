@@ -1,0 +1,15 @@
+<keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
+  <action id="ResourceExplorer.show" />
+  <action id="Scala.ExpandImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="ServiceView.ShowServices" />
+</keymap>
